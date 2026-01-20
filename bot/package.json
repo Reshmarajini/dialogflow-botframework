@@ -1,0 +1,13 @@
+{
+    "name": "enterprise-chatbot",
+    "version": "1.0.0",
+    "dependencies": {
+        "@google-cloud/dialogflow": "^7.4.0",
+        "axios": "^1.13.2",
+        "botbuilder": "^4.22.0",
+        "dialogflow": "^1.2.0",
+        "dotenv": "^17.2.3",
+        "express": "^4.18.2",
+        "uuid": "^13.0.0"
+    }
+}
